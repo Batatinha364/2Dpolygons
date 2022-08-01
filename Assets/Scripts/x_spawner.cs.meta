@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e9f6ad9749ab6fe4b9547f0412bd9adf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hexagon: {fileID: 8113909178414285788, guid: c36ae6b38fc3d1b419861f2fef6efebf, type: 3}
+  - circle: {fileID: 8931260463885498254, guid: e07f0a77e0b73d145bc7a5a48475dd78, type: 3}
+  - diamond: {fileID: 254596296359312291, guid: 290fbf8044b459644b598d35c93677ea, type: 3}
+  - ellipse: {fileID: 1612052928370771324, guid: a5ae5966e80f4034db2a575a57806dd2, type: 3}
+  - isosceles: {fileID: 7540116241388654441, guid: 0a305da64611a7c429eaba6a6d6f7983, type: 3}
+  - octagon: {fileID: 5935937247516811024, guid: 746df14ee6616904c8328b40e616a9c7, type: 3}
+  - parallelogram: {fileID: 8309827821066705514, guid: 58dc6587859e62b45a6317d07122236a, type: 3}
+  - pentagon: {fileID: 7072784276975036187, guid: 240323c5837bce041b5106c0df9be0e3, type: 3}
+  - rectangle: {fileID: 6158324352481831921, guid: cdcefcd80286383499f6bf98db8057e9, type: 3}
+  - square: {fileID: 3100020347202860526, guid: 4197d38659e275840b823f7de6c6f0bb, type: 3}
+  - trapeze: {fileID: 6274235779307863288, guid: ec5562a19ed34fa43bb465ad1e832ab3, type: 3}
+  - triangle2: {fileID: 5908463066769234766, guid: e04ef441db3aa3b44933396c6388d67b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
