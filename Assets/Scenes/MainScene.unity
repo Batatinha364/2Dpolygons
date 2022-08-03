@@ -2606,7 +2606,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Batatinha364 (Github)
+  m_text: JorgeMiguel364 (Github)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5465d0dd36e6c5b4fb79272cb97e1018, type: 2}
   m_sharedMaterial: {fileID: -3868351467282859497, guid: 5465d0dd36e6c5b4fb79272cb97e1018, type: 2}
